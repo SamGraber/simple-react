@@ -1,0 +1,15 @@
+{
+  "name": "chooseyourstory",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^15.0.6",
+    "@types/react-dom": "^0.14.22",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "typescript": "^2.1.5"
+  }
+}
